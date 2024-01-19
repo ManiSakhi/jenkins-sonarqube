@@ -2,10 +2,10 @@ import org.junit.Test;
 
 /**
  * Project Name    : sonarqube-example
- * Developer       : Osanda Deshan
+ * Developer       : Mani
  * Version         : 1.0.0
- * Date            : 8/9/2019
- * Time            : 8:59 AM
+ * Date            :18/01/24
+ * Time            : 2:00 PM
  * Description     :
  **/
 
